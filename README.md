@@ -1,5 +1,7 @@
 # Vue Google Autocomplete
 
+A Vue Google Autocomplete Fork using google-maps-api-loader instead of a script tag.
+
 A Vue.js (2.x) autosuggest component for the Google Maps Places API.
 
 ## Demo
